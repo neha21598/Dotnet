@@ -1,0 +1,1 @@
+Q2. Using schema first approach generate poco and proxy class. Using MVC frame work display all record. It should have all functionality of insert update delete.
